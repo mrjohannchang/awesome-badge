@@ -3,16 +3,43 @@
 A curated list of awesome badges of updated information and statuses. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Badge](#awesome-badge)
+    - [Chat](#chat)
     - [Continuous Integration](#continuous-integration)
+    - [Custom](#custom)
+    - [Distribution](#distribution)
     - [Documentation](#documentation)
     - [Package](#package)
     - [Testing](#testing)
+
+## Chat
+
+* [Gitter](http://blog.gitter.im/badgers/)
+
+    ![Gitter](https://badges.gitter.im/gitterHQ/gitter.png)
 
 ## Continuous Integration
 
 * [Travis CI](http://docs.travis-ci.com/user/status-images/)
 
     ![Travis CI](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)
+
+## Custom
+
+* [Shields.io](http://badges.github.io/gh-badges/)
+
+## Distribution
+
+* [Android Arsenal](http://android-arsenal.com/)
+
+* [Bintray](https://bintray.com/)
+
+* [Bountysource](http://blog.bountysource.com/post/87257081709/bountysource-badges)
+
+    ![Bountysource](https://api.bountysource.com/badge/team?team_id=69&style=bounties_posted)
+    ![Bountysource](https://api.bountysource.com/badge/team?team_id=129&style=bounties_received)
+    ![Bountysource](https://api.bountysource.com/badge/team?team_id=506&style=raised)
+    ![Bountysource](https://api.bountysource.com/badge/issue?issue_id=380169)
+    ![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=51989)
 
 ## Documentation
 
@@ -23,6 +50,10 @@ A curated list of awesome badges of updated information and statuses. Inspired b
     ![Read the Docs](https://img.shields.io/badge/docs-no%20builds-yellow.svg?style=flat)
 
 ## Package
+
+* [NPM](https://www.npmjs.com/package/gh-badges)
+
+    ![NPM](http://img.shields.io/npm/v/gh-badges.svg)
 
 * [PyPI Pins](https://pypip.in/)
 
